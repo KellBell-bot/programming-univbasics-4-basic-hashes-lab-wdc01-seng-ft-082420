@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  my_hash = { name: "Kellie", age: "29", occupation: "Program Developer" }
 end
 
 def pioneer
